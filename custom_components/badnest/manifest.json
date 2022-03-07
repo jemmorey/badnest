@@ -4,6 +4,7 @@
   "documentation": "https://github.com/mattsch/badnest",
   "issue_tracker": "https://github.com/mattsch/badnest/issues",
   "dependencies": [],
+  "version": "0.1",
   "codeowners": [
     "@mattsch",
     "@USA-RedDragon"
